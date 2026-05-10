@@ -197,7 +197,7 @@ no_card = [m for m in free_models if m['noCreditCard']]
 
 We welcome contributions!
 
-- **Add a missing free model** — Open an [issue](https://github.com/open-free-llm-api/open-free-llm-api-/issues) or submit a PR updating `data/models.json`
+- **Add a missing free model** — Open an [issue](https://github.com/open-free-llm-api/awesome-free-llm-apis/issues) or submit a PR updating `data/models.json`
 - **Fix inaccurate data** — Rate limits change, providers graduate. PRs welcome
 - **Add a config snippet** — Have a working config for a tool we don't cover? Add it to `code-examples/`
 
